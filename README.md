@@ -11,7 +11,7 @@ wall-dl <query>
 - Select wallpapers by marking them using `m` in sxiv.
 - Quit sxiv using `q`.
 
-Selected videos will download one by one.
+Selected images will download one by one.
 
 
 ## Dependecies
